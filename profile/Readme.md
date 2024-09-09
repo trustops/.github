@@ -38,8 +38,8 @@ Funded in part by the European Union (TEADAL, 101070186). Views and opinions exp
 
 Joint work by CYBERNETICA AS and Information System Engineering Group, Technische Universität Berlin.
 
-<img align="center" src="./img/teadal.jpg" height="60">
-<img align="center" src="./img/cyb.png" height="60">
-<img align="center" src="./img/tub.svg" height="60">
+<img align="left" src="./img/teadal.jpg" height="60">
+<img align="left" src="./img/cyb.png" height="60">
+<img align="left" src="./img/tub.svg" height="60">
  
 ---
