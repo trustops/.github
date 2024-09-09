@@ -1,5 +1,5 @@
 <!--Banner-->
-![TrustOps](./img/TrustOps.png)
+![TrustOps](./img/trustops.png)
 
 <!--Header Name-->
 <h1 align="center">TrustOps</h1>
