@@ -8,7 +8,7 @@ Software</h4>
 
 <!--Start Intro-->               
 <p align="left">
-Software services play a crucial role in daily life, however, in how often do we really check if the software we are using is doing what it is supposed to do? Or if it was created by the people we think it was created by? Or if it is provided as promised by cloud or service providers?
+Software services play a crucial role in daily life, however, how often do we really check if the software we are using is doing what it is supposed to do? Or if it was created by the people we think it was created by? Or if it is provided as promised by cloud or service providers?
 
 We argue that gathering verifiable evidence during software development and operations is needed for creating a new trust model that can answer these questions without a doubt.
 Therefore, we present TrustOps, an approach for continuously collecting verifiable evidence in all phases of the software life cycle, relying on and combining already existing tools and trust-enhancing technologies to do so. 
