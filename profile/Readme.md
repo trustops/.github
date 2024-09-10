@@ -26,7 +26,7 @@ For more details on the method find our paper [here]().
 }
 ```
 
-For more information on TrustOps tools, practices, and technologies, please check out our [Awsome List]() and start contributing to the community.
+For more information on TrustOps tools, practices, and technologies, please check out our [Awesome List](https://github.com/trustops/awesome-trustops) and start contributing to the community.
 
 <!--End Intro-->
 ---
