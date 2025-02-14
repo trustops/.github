@@ -16,7 +16,8 @@ For this, we created this community, to collect and share tools, technologies, a
 </p>
 
 <!-- TODO: add doi and url to pre-print -->
-For more details on the method find our paper [here]().
+For more details, refer to our paper available [here](https://arxiv.org/pdf/2412.03201) or access it directly via its DOI: [10.1007/978-3-031-79059-1_4](https://doi.org/10.1007/978-3-031-79059-1_4).
+
 ```bibtex
 @inproceedings{trustOps,
     author = {Eduardo Brito and Fernando Castillo and Pille Pullonen-Raudvere and Sebastian Werner},
